@@ -5,7 +5,7 @@ Hello, this is my solution for the challenge meeting the requested parameters.
 For this project ts-node and jest were used for unit testing.
 
 
-## Run Locally
+## Run Test
 
 Clone the project
 
@@ -28,7 +28,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm run test
 ```
 
 
