@@ -1,7 +1,7 @@
 
-# Challenge Typescript
+# Code Challenge Typescript
 
-Hello, this is my solution for the challenge meeting the requested parameters.
+Hello, this is my solution for the code challenge meeting the requested parameters.
 For this project ts-node and jest were used for unit testing.
 
 
